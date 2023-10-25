@@ -1,0 +1,16 @@
+* {
+    border-bottom: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: antiquewhite;
+}
+
+.container {
+    display: flex;
+}
+
+img {
+    position: static;
+    margin-left: 50 v0px;
+}
